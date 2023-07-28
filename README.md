@@ -1,5 +1,13 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋 :smiling_imp:</h1>
 
+
+     
+<p align="center">
+  <h3> Feel free to contact me :)</h3>
+  <h3> Email: chexing0313@gmail.com</h3>
+  
+</p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <!--
 **JuJuXC/JuJuXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
