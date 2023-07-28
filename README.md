@@ -3,8 +3,8 @@
 
      
 <p align="center">
-  <h3> Feel free to contact me :)</h3>
-  <h3> Email: chexing0313@gmail.com</h3>
+  <h4> :couple:Feel free to contact me :)</h4>
+Email: chexing0313@gmail.com
   
 </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
